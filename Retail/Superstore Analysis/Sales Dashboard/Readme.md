@@ -5,7 +5,7 @@ This repository contains the implementation of two key business intelligence das
 
 ## Sales Executive Dashboard
 
-![Sales Executive Dashboard](Superstore_execute_sales_dashboard.gif)
+![Sales Executive Dashboard](gifs/Superstore_execute_sales_dashboard.gif)
 
 ### Features
 - **Total Sales**: Displays the total sales figures over a specific period.
@@ -22,7 +22,7 @@ This repository contains the implementation of two key business intelligence das
 
 ## Order Details Dashboard
 
-![Order Details Dashboard](Superstore_order_details.gif)
+![Order Details Dashboard](gifs/Superstore_order_details.gif)
 
 ### Features
 - **Order ID**: Unique identifier for each order.
