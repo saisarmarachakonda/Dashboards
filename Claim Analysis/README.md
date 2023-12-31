@@ -30,13 +30,13 @@ Based on our analysis, we recommend the following strategies for targeting speci
 ## Tableau Visualization
 
 ### Car Owner Analysis
-![Car Owner](gifs/Car Owner.gif)
+![Car Owner](gifs/Car_Owner.gif)
 
 ### Claim Analysis - Part 1
 ![Claim Analysis 1](gifs/Claim_Analysis_1.gif)
 
 ### Claim Analysis - Part 2
-![Claim Analysis 2](gifs/Claim_Analysis-2.gif)
+![Claim Analysis 2](gifs/Claim_Analysis_2.gif)
 
 ### Kids Analysis
 ![Kids Analysis](gifs/Kids_Analysis.gif)
