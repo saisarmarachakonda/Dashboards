@@ -33,16 +33,16 @@ Based on our analysis, we recommend the following strategies for targeting speci
 ![Car Owner](gifs/Car Owner.gif)
 
 ### Claim Analysis - Part 1
-![Claim Analysis 1](gifs/Claim Analysis 1.gif)
+![Claim Analysis 1](gifs/Claim_Analysis_1.gif)
 
 ### Claim Analysis - Part 2
-![Claim Analysis 2](gifs/Claim Analysis 2.gif)
+![Claim Analysis 2](gifs/Claim_Analysis-2.gif)
 
 ### Kids Analysis
-![Kids Analysis](gifs/Kids Analysis.gif)
+![Kids Analysis](gifs/Kids_Analysis.gif)
 
 ### Urban and Rural Analysis
-![Urban and Rural Analysis](gifs/Urban and Rural Analysis.gif)
+![Urban and Rural Analysis](gifs/Urban_and_Rural_Analysis.gif)
 
 ### Summary of Findings
 ![Summary](gifs/summary.gif)
