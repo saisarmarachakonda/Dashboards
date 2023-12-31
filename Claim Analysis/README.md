@@ -38,6 +38,9 @@ Based on our analysis, we recommend the following strategies for targeting speci
 ### Claim Analysis - Part 2
 ![Claim Analysis 2](gifs/Claim_Analysis_2.gif)
 
+### Claim Age Analysis
+![Claim Age Analysis](gifs/Claim_Age_Analysis.gif)
+
 ### Kids Analysis
 ![Kids Analysis](gifs/Kids_Analysis.gif)
 
