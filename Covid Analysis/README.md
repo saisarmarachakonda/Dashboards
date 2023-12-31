@@ -4,6 +4,21 @@
 
 This repository hosts a COVID-19 Tracker designed to provide real-time updates and insights on the pandemic's status globally. It serves as an informative tool for users to visualize the spread, trends, and impact of COVID-19 through interactive data visualizations.
 
+
+## GIF Visualizations
+
+### COVID Tracker
+![COVID Tracker](gifs/covid_tracker.gif)  
+*This GIF contains the tracker, case map, and death map.*
+
+### Global Situation
+![Global Situation](gifs/global_situation.gif)  
+*This GIF showcases the global situation of the pandemic.*
+
+### Situation by Country
+![Situation by Country](gifs/situation_by_country.gif)  
+*This GIF depicts the situation by country, confirmed cases, and country comparisons.*
+
 ## About the Tracker
 
 The tracker presents an array of statistics including case counts, recovery rates, mortality rates, and vaccination progress across different regions and countries.
@@ -43,6 +58,7 @@ The tracker compiles data from trusted global sources, ensuring accuracy and rel
 ## Contributing
 
 Contributions to the COVID-19 Tracker are welcome. For feature suggestions or data additions, please reach out via the Tableau Public profile.
+
 
 ## Disclaimer
 
