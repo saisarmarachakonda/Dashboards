@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![Intro](gifs/Intro.gif)
+
 This project aims to dissect the various factors affecting car insurance premiums. Insights gleaned will enable senior managers at insurance companies to make informed decisions in policy development and risk assessment.
 
 ## Project Details
@@ -26,6 +28,24 @@ Based on our analysis, we recommend the following strategies for targeting speci
 10. **High-Value Customer Coverage**: Offer specialized plans for highly educated customers with valuable cars.
 
 ## Tableau Visualization
+
+### Car Owner Analysis
+![Car Owner](gifs/Car Owner.gif)
+
+### Claim Analysis - Part 1
+![Claim Analysis 1](gifs/Claim Analysis 1.gif)
+
+### Claim Analysis - Part 2
+![Claim Analysis 2](gifs/Claim Analysis 2.gif)
+
+### Kids Analysis
+![Kids Analysis](gifs/Kids Analysis.gif)
+
+### Urban and Rural Analysis
+![Urban and Rural Analysis](gifs/Urban and Rural Analysis.gif)
+
+### Summary of Findings
+![Summary](gifs/summary.gif)
 
 To view detailed visualizations of the analysis, please visit the Tableau Public link below:
 [Car Claim Analysis Visualization on Tableau Public](https://public.tableau.com/app/profile/sai.kiran7316/viz/saikiran/Analysis?publish=yes)
