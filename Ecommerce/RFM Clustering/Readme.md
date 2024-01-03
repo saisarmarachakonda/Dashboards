@@ -19,6 +19,6 @@ Below are the animated GIFs providing dynamic visual insights into various aspec
 2. ![Retention Rate Over Time](gifs/Retentionrate_elapsed.gif)
    - The retention rate graph provides a visualization of how well the business retains customers over time, which is crucial for understanding the long-term value and loyalty of the customer base.
 
-3. ![Customer Segmentation](gifs/Segmentation.gif)
+3. ![Customer Segmentation](gifs/segmentation.gif)
    - This GIF illustrates the segmentation of customers based on RFM analysis. It's an effective way to visualize the distribution of customers and to identify which segments are the most valuable to the business.
 
